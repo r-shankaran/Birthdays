@@ -16,4 +16,6 @@ struct BirthdaysApp: App {
                 .modelContainer(for: Friend.self)
         }
     }
+    
+    
 }
